@@ -6,3 +6,7 @@ hola
 Las palomas ... 
 
 y además las palomas x cosa
+
+# gatos
+
+ahora sí voy a hablar de los gatos
