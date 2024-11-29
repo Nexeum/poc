@@ -1,5 +1,6 @@
 hola
 
+Esta es una prueba de git usando consola
 
 # palomas
 
